@@ -3,7 +3,7 @@
 A modern, responsive, single-page developer portfolio featuring a dynamic matrix "digital rain" background, custom cursor, glassmorphism UI elements, and glowing neon accents.
 
 ### 🌐 Live Demo
-**[View the Live Portfolio Here](https://yakub-portfolio.vercel.app/)**
+**[View the Live Portfolio Here](https://yakub-portfolio-phi.vercel.app/)**
 
 ---
 
